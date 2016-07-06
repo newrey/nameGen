@@ -17,6 +17,7 @@ Options:
     -o, --output OUTPUT_FILE         Outfile name
     -e, --examples                   Show some usage examples```
 
+```
 #### Command Usage
 ```
 ruby nameGen.rb -l lastnames_sample.txt -i -o first-initial-last-name.txt
